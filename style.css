@@ -17,3 +17,11 @@ button {
     font-weight: bold;
     color: #333;
 }
+
+.code {
+    background-color: #cfcfcf;
+    color: #d63384;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-family: Consolas, monospace;
+}
